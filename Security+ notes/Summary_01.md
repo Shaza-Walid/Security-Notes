@@ -1,6 +1,6 @@
 # CompTIA Security+ (SY0-601) — Study Notes
 
-> Organized notes covering Lessons 1–6 of the CompTIA Security+ course.
+> Organized notes covering Lessons 1–3 of the CompTIA Security+ course.
 
 ---
 
